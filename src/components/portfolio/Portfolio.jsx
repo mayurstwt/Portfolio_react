@@ -10,6 +10,7 @@ import IMG7 from '../../assets/Screenshot (47).png'
 import IMG8 from '../../assets/Screenshot (48).png'
 import IMG9 from '../../assets/Screenshot (49).png'
 import IMG10 from '../../assets/Screenshot (51).png'
+import IMG11 from '../../assets/Screenshot (52).png'
 
 
 
@@ -86,6 +87,14 @@ const data = [
     title: 'Builder Website',
     desc: 'Only frontend website made with Bootstrap on react, fully mobile responsive',
     demo: 'https://msxreactbootstrap.netlify.app/'
+  }
+  ,
+  {
+    id: 11,
+    image: IMG11,
+    title: 'PSD TO REACT Website',
+    desc: 'Only frontend website made with Bootstrap on react, fully mobile responsive',
+    demo: 'https://msxpsdtoreact.netlify.app/'
   }
 
 
